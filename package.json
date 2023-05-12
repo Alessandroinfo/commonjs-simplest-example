@@ -1,0 +1,11 @@
+{
+  "name": "commonjs-simplest-example",
+  "version": "1.0.0",
+  "description": "Brief description",
+  "main": "main.js",
+  "scripts": {
+    "serve": "npx http-server ./src"
+  },
+  "author": "",
+  "license": "MIT"
+}
