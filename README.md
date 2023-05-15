@@ -32,3 +32,7 @@ This file defines two functions: `greetings` and `bye`. The `greetings` function
 ### `package.json`
 
 This file specifies the name, version, description, entry point, scripts, author, and license of the example project. The `serve` script runs a local HTTP server for development purposes.
+
+Run
+-----
+Run with `node src/main.js`
